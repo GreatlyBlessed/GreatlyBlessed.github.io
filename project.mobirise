@@ -38,7 +38,11 @@
     "siteFonts": [],
     "uniqCompNum": 25,
     "versionPublish": "4.9.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "whitelabel": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "branding": ""
   },
   "pages": {
     "index.html": {
